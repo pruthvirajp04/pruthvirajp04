@@ -10,11 +10,11 @@ Hello 👋 , I am Pruthviraj Patil ...
 - ♟️  I'm a professional <a href = "https://www.chess.com/member/pruthvirajpatil04" > Chess Player </a> <br> <br>
 <h2> Connect with me :   </h2>
 
- <a href="https://pruthvirajp04.github.io/" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="Pruthviraj Patil Website" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pruthviraj-patil-a76962210/pruthviraj-patil-a76962210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pruthviraj Patil" height="30" width="40" /></a><a href="https://instagram.com/pruthvi905" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pruthvi905" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pruthvirajp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pruthvirajp" height="30" width="40" /></a>
-<a href="https://www.chess.com/member/pruthvirajpatil04" target="blank"><img align="center" src="https://pruthvirajp04.github.io/static/img/chess.com.png" alt="Chesscom Pruthviraj" height="30" width="40" /></a>
-<a href="https://lichess.org/@/pruthvirajpatil04" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Lichess_Logo.svg" alt="Lichess Pruthviraj" height="30" width="40" /></a>
+ <a href="https://pruthvirajp04.github.io/" target="_blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="Pruthviraj Patil Website" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pruthviraj-patil-a76962210/pruthviraj-patil-a76962210/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pruthviraj Patil" height="30" width="40" /></a><a href="https://instagram.com/pruthvi905" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pruthvi905" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pruthvirajp" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pruthvirajp" height="30" width="40" /></a>
+<a href="https://www.chess.com/member/pruthvirajpatil04" target="_blank"><img align="center" src="https://pruthvirajp04.github.io/static/img/chess.com.png" alt="Chesscom Pruthviraj" height="30" width="40" /></a>
+<a href="https://lichess.org/@/pruthvirajpatil04" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Lichess_Logo.svg" alt="Lichess Pruthviraj" height="30" width="40" /></a>
  
   
   <br>
