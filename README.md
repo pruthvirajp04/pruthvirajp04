@@ -1,6 +1,7 @@
 <h1>
 Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> , I am Pruthviraj Patil ... 
 </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajp04&label=Profile%20views&color=0e75b6&style=flat" alt="PRUTHVIRAJ PATIL" /> </p>
   <p style="font-family: monospace; font-size: 1.2rem;">
           - 🌐 I’m an intermediate full stack web developer ... <br> <br>
@@ -8,9 +9,13 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
             - 📚 I’m familiar with MERN stack  ...<br> <br>
             - 🎓 I'm pursuing B.Tech in Computer Engineering ...<br> <br>
             - 🌸 I'm an intermediate <a href = "https://www.codechef.com/users/pruthvirajp" style="color: brown;" >Competetive Programmer </a> <br> <br>
-            - ♟️  I'm a professional <a href = "https://www.chess.com/member/pruthvirajpatil04" style="color: brown;"> Chess Player </a> 
-        </p>
- <br> <br>
+            - ♟️  I'm a professional <a href = "https://www.chess.com/member/pruthvirajpatil04" style="color: brown;"> Chess Player </a>  <br><br>
+  
+  
+  [![Codechef](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/pruthvirajp&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/pruthvirajp)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/pruthvirajp&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/pruthvirajp)  
+</p>
+ 
 <h2> Connect with me :   </h2>
 
  <a href="https://pruthvirajp04.github.io/" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cBi_GN5rsU8CYpaafdjJqD9FFH-_MDjOtw&usqp=CAU" alt="Pruthviraj Patil Website" height="30" width="35" /></a> &nbsp;
@@ -21,7 +26,7 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 <a href="https://lichess.org/@/pruthvirajpatil04" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Lichess_Logo.svg" alt="Lichess Pruthviraj" height="30" width="40" /></a>
  
   
-  <br>
+ 
   <br>
   
   
@@ -37,6 +42,6 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
  
 </p>
 
-<br>
+
 <h2> Streaks and Stats :   </h2> <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvirajp04&show_icons=true&locale=en&layout=compact" alt="pruthvirajp04" /><img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Pruthviraj Patil Stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajp04&" alt="pruthvirajp04" />
