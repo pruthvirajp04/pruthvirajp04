@@ -3,12 +3,12 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajp04&label=Profile%20views&color=0e75b6&style=flat" alt="PRUTHVIRAJ PATIL" /> </p>
   <p style="font-family: monospace; font-size: 1.2rem;">
-            - 🌐 I’m an intermediate full stack web developer ... <br> <br>
+          - 🌐 I’m an intermediate full stack web developer ... <br> <br>
             - 💻 I'm a proficient front end web developer ... <br> <br>
             - 📚 I’m familiar with MERN stack  ...<br> <br>
             - 🎓 I'm pursuing B.Tech in Computer Engineering ...<br> <br>
-            - 🌸 I'm an intermediate <a href = "https://www.codechef.com/users/pruthvirajp" >Competetive Programmer </a> <br> <br>
-            - ♟️  I'm a professional <a href = "https://www.chess.com/member/pruthvirajpatil04" > Chess Player </a> 
+            - 🌸 I'm an intermediate <a href = "https://www.codechef.com/users/pruthvirajp" style="color: brown;" >Competetive Programmer </a> <br> <br>
+            - ♟️  I'm a professional <a href = "https://www.chess.com/member/pruthvirajpatil04" style="color: brown;"> Chess Player </a> 
         </p>
  <br> <br>
 <h2> Connect with me :   </h2>
