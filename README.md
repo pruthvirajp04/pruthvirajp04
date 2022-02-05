@@ -48,6 +48,6 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajp04&layout=compact&theme=onedark" alt="pruthvirajp04" /> 
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=pruthvirajp04&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D" alt="pruthvirajp04" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=pruthvirajp04&theme=onedark_format=M%20j%5B%2C%20Y%5D" alt="pruthvirajp04" />
 
 
