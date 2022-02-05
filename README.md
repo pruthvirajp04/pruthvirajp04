@@ -44,7 +44,7 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 
 
 <h2> Streaks and Stats :   </h2> 
-<img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&theme=gruvbox_light&show_icons=true" alt="Pruthviraj Patil Stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&theme=merko&show_icons=true" alt="Pruthviraj Patil Stats"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajp04&layout=compact&theme=onedark" alt="pruthvirajp04" /> 
 
 
