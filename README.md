@@ -44,4 +44,6 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 
 
 <h2> Streaks and Stats :   </h2> <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvirajp04&show_icons=true&locale=en&layout=compact" alt="pruthvirajp04" /><img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Pruthviraj Patil Stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajp04&" alt="pruthvirajp04" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvirajp04&show_icons=true&locale=en&layout=compact" alt="pruthvirajp04" /><img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Pruthviraj Patil Stats">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pruthvirajp04&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
