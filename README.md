@@ -44,8 +44,9 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
 
 
 <h2> Streaks and Stats :   </h2> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajp04&layout=compact&theme=onedark" alt="pruthvirajp04" /> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&theme=gruvbox_light&show_icons=true" alt="Pruthviraj Patil Stats"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&theme=gruvbox_light&show_icons=true" alt="Pruthviraj Patil Stats"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajp04&layout=compact&theme=onedark" alt="pruthvirajp04" /> 
+
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=pruthvirajp04&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D" alt="pruthvirajp04" />
 
