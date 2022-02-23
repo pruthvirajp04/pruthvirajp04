@@ -13,6 +13,7 @@ Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif
   
   
   [![Codechef](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/pruthvirajp&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/pruthvirajp)
+  
 [![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/pruthvirajp&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/pruthvirajp)  
 </p>
  
