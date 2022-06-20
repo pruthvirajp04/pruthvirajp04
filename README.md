@@ -1,5 +1,5 @@
 <h1>
-Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> , I am Pruthviraj Patil ... 
+Hello 👋 , I am Pruthviraj Patil ... 
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajp04&label=Profile%20views&color=0e75b6&style=flat" alt="PRUTHVIRAJ PATIL" /> </p>
