@@ -7,7 +7,7 @@ Hello 👋 , I am Pruthviraj Patil ...
           - 🌐 I’m an intermediate full stack web developer ... <br> <br>
             - 💻 I'm a proficient front end web developer ... <br> <br>
             - 📚 I’m familiar with MERN stack  ...<br> <br>
-            - 🎓 I'm pursuing B.Tech in Computer Engineering ...<br> <br>
+            - 🎓 I'm pursuing B.Tech in Computer Science ...<br> <br>
             - 🌸 I'm an intermediate <a href = "https://www.codechef.com/users/pruthvirajp" style="color: brown;" >Competetive Programmer </a> <br> <br>
             - ♟️  I'm a professional <a href = "https://www.chess.com/member/pruthvirajpatil04" style="color: brown;"> Chess Player </a>  <br><br>
   
