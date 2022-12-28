@@ -5,7 +5,7 @@ Hello 👋 , I am Pruthviraj Patil ...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajp04&label=Profile%20views&color=0e75b6&style=flat" alt="PRUTHVIRAJ PATIL" /> </p>
   <p style="font-family: monospace; font-size: 1.2rem;">
           - 🌐 I’m an intermediate full stack web developer ... <br> <br>
-            - 💻 I'm a proficient  web developer ... <br> <br>
+            - 💻 I'm a proficient front end web developer ... <br> <br>
             - 📚 I’m familiar with MERN stack  ...<br> <br>
             - 🎓 I'm pursuing B.Tech in Computer Engineering ...<br> <br>
             - 🌸 I'm an intermediate <a href = "https://www.codechef.com/users/pruthvirajp" style="color: brown;" >Competetive Programmer </a> <br> <br>
