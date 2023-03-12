@@ -4,7 +4,7 @@ Hello 👋 , I am Pruthviraj Patil ...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajp04&label=Profile%20views&color=0e75b6&style=flat" alt="PRUTHVIRAJ PATIL" /> </p>
   <p style="font-family: monospace; font-size: 1.2rem;">
-            - 🎓 Technical Lead at  <a href = "https://gdsckjsit.netlify.app" style="color: brown;" >GDSC-KJSIT </a> 
+            - 🎓 Technical Lead at  <a href = "https://gdsckjsit.netlify.app" style="color: brown;" >GDSC-KJSIT </a> <br> <br>
             - 🌐 I’m an intermediate full stack web developer ... <br> <br>
             - 💻 I'm a proficient front end web developer and working at <a href = "https://npstx.com" style="color: brown;" >NPST-Mumbai</a> ... <br> <br>
             - 📚 I’m familiar with MERN stack  ...<br> <br>
