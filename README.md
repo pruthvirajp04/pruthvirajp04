@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajp04&label=Profile%20views&color=0e75b6&style=flat" alt="PRUTHVIRAJ PATIL" /> </p>
   <p style="font-family: monospace; font-size: 1.2rem;">
-          - 🌐 I’m an intermediate full stack web developer ... <br> <br>
-            - 💻 I'm a proficient front end web developer ... <br> <br>
+            - 🎓 Technical Lead at  <a href = "https://gdsckjsit.netlify.app" style="color: brown;" >GDSC-KJSIT </a> <br> <br>
+            - 🌐 I’m an intermediate full stack web developer ... <br> <br>
+            - 💻 I'm a proficient front end web developer and working at <a href = "https://npstx.com" style="color: brown;" >NPST-Mumbai</a> ... <br> <br>
             - 📚 I’m familiar with MERN stack  ...<br> <br>
             - 🎓 I'm pursuing B.Tech in Computer Engineering ...<br> <br>
-            - 🌸 I'm an intermediate <a href = "https://www.codechef.com/users/pruthvirajp" style="color: brown;" >Competetive Programmer </a> <br> <br>
+            - 🌸 I'm an currently working on <a href = "https://fpms.kjsieit.com" style="color: brown;" >FPMS-KJSIT </a> <br> <br>
             - ♟️  I'm a professional <a href = "https://www.chess.com/member/pruthvirajpatil04" style="color: brown;"> Chess Player </a>  <br><br>
   
   
-  [![Codechef](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codechef&label=Codechef&url=https://competitive-coding-api.herokuapp.com/api/codechef/pruthvirajp&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/pruthvirajp)
   
 [![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/pruthvirajp&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/pruthvirajp)  
 </p>
