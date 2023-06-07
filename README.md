@@ -1,4 +1,4 @@
-<img src="images/bg2.png"> 
+<img src="https://github.com/pruthvirajp04/pruthvirajp04/blob/main/Group%205%20(1).png"> 
 <h2 align="center">Hey there, I'm Pruthviraj Patil</h2>
 <!-- <h3 align="center">Experienced User Interface Developer </h3> -->
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
