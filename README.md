@@ -7,7 +7,7 @@
   <p style="font-family: monospace; font-size: 1.2rem;">
             - 🎓 Technical Lead at  <a href = "https://gdsckjsit.netlify.app" style="color: brown;" >GDSC-KJSIT </a> <br> <br>
             - 🌐 Full stack web developer ... <br> <br>
-            - 💻 Software Engineer <a href = "https://zeuslearning" style="color: brown;" >Zeus Learning</a> ... <br> <br>
+            - 💻 Software Engineer <a href = "https://zeuslearning.com" style="color: brown;" >Zeus Learning</a> ... <br> <br>
             - 📚 Worked with Angular,React with Nest js   ...<br> <br>
             - 🎓 Final year B.Tech in Computer Engineering ...<br> <br>
             - 🌸 Worked on <a href = "https://fpms.kjsieit.com" style="color: brown;" >FPMS-KJSIT </a> <br> <br>
